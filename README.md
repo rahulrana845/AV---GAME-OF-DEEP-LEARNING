@@ -16,7 +16,7 @@ model for this project.
 
 There are 5 classes of ships to be detected which are as follows: 
 
-![Category](images/category.png)
+![Category](category.png)
 
 #### Dataset Description
 
