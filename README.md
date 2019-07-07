@@ -1,9 +1,7 @@
 # AV-Game-of-Deep-Learning
 AnalyticsVidhya- Game of Deep Learning: Computer Vision Hackathon
 
-![Competition banner](banner.jpg)
-
-[Competition Link](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/)
+<img src="https://datahack.analyticsvidhya.com/media/__sized__/contest_cover/god_2-thumbnail-1200x1200-90.jpg">
 
 #### Problem Statement
 
